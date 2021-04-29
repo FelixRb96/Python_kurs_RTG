@@ -1,11 +1,15 @@
 """
-TODO
+RTG Pythonkurs
+@Date: 07.05.2021
+
+Numpy Aufgaben
+Arbeiten mit Zufallszahlen und simulieren einer Markovkette
 """
 
 # 0) importieren sie numpy als die gewöhnliche konvention
 
 # 1) 
-# a) erstellen sie sich einen Zufallszahlengenerator und setzen sie einen Seed auf ihren Gebbburtstag
+# a) erstellen sie sich einen Zufallszahlengenerator und setzen sie einen Seed auf ihren Geburtstag
 # b) simulieren sie sich einen Vektor von 100 normalverteilten zufallsvariablen mit mittelwert 0 und standardabweichung 1
 # c) berechnen sie das maximum, mittelwert, varianz und die Quartile.
 
