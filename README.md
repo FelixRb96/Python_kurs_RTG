@@ -12,10 +12,13 @@ Materialien für den Python Kurs des RTG 1953 gehalten am 07.05.21.
 
 ##### Nachmittags
 
-* Grundlagen numpy, pandas, matplotlib (denke damit kriegt man zwei studen gefüllt)(habe hierzu 3 Aufgaben Notebooks)
-* Übersicht weitere Packages (Idee: Statsmodels, sklearn, tensorflow... lässt sich aber nur kurz anschneiden)
+* Grundlagen numpy, pandas, matplotlib
+* Übersicht weitere Packages (scipy, Statsmodels, sklearn, tensorflow)
 
 ### Materialien zur Inspiration
+
+Neben den entsprechenden Dokumentationen durch die Help Funktion oder den offiziellen Webseiten finden sich hier auch gute Ressourcen um 
+die Kursinhalte zu festigen, besser zu verstehen und zu erweitern. 
 
 * https://github.com/STADS-Mannheim/pythonkurs2020_1_get_started
 * basics numpy https://numpy.org/devdocs/user/absolute_beginners.html
