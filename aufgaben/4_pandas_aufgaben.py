@@ -65,3 +65,5 @@ col_names = ['name', 'sex', 'first_appearance']
 
 
 #Lasst euch ein Histogramm der Ersterscheinungen ausgeben
+
+#Datensatz einlesen 
