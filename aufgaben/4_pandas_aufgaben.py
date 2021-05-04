@@ -29,14 +29,14 @@ marvel_data = [
 #Bennenen Sie die Spalten durch die gegebene Liste.
 col_names = ['name', 'sex', 'first_appearance']
 
-#AF: Meinst du die Spalte name?
-#Machen Sie die Spalte Index zu dem Index. 
+
+#Machen Sie die Spalte name zu dem Index. 
 
 
 #Löschen Sie die Spalte name.
 
 
-#Löschen Sie die Zeilen der von Namor und Hank Pym.
+#Löschen Sie die Zeilen von Namor und Hank Pym.
 
 
 #Zeigen Sie die ersten 5 Zeilen des DataFrames an.
@@ -61,8 +61,8 @@ col_names = ['name', 'sex', 'first_appearance']
 
 #Lassen Sie sich den Durschnitt der Ersterscheinungen ausgeben.
 
-#AF: Was meinst du damit großer?
-#Plottet die ersten experiences
+
+#Plotten Sie die Werte der Ersterscheinungen
 
 
 #Lassen Sie sich ein Histogramm der Ersterscheinungen ausgeben.

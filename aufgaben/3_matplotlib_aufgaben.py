@@ -8,9 +8,11 @@
 
 #Aufgabe 2
 
-#  
-# AF: Till mach daraus mal eine Aufgabe mit vernünftigen Anweisungen, sodass dich kein Mathematiker umbringen würde. Thäääänks
-#a) 1 dimensional:Erstellt 4 Random Walks mit 4 Wahrscheinlichkeiten eurer Wahl und erstellt eine Legende die beinhält, welcher Random Walk welche Wkeit hat (in einem Plot)
-#Pandas Ansatz oder loop
+#
+#a) (1 dimensionaler Random Walk) Ihre Aufgabe ist es 4 Irrfahrten in einem Plot darzustellen. Nutzen Sie hierfür die Wahrscheinlichkeiten (0.5, 0.4, 0.2, 0.8) für eine 
+# Realisierung der 1  und die entsprechende Gegenwahrscheinlichkeit für eine Realisierung der -1. Fügen Sie dem Plot außerdem eine Legende zu, welche die  
+# Wahrscheinlichkeiten der einzelnen Irrfahrten beinhält.
 
-#b) 2 dimensionaler Random Walk beschriftet mit Legende (gleichverteilt in alle Richtungen)
+#Tipp: Ihr könnt einen Loop erstellen oder einen Pandas Ansatz wählen
+
+#b) Erstellen Sie eine 2-dimensionale symmetrische Irrfahrt mit einer passenden Legende
