@@ -1,4 +1,4 @@
-# Importiert zunächst pandas und numpy
+# Importieren Sie zunächst die Libaries pandas und numpy.
 
 marvel_data = [
     ['Spider-Man', 'male', 1962],
@@ -23,47 +23,48 @@ marvel_data = [
     ['Vision', 'male', 1968]
 ]
 
-#Erstellt einen Dataframe aus marvel_data
+#Erstellen Sie einen Pandas Dataframe aus der marvel_data Liste.
 
 
-#Bennent die Spalten durch die gegebene Liste 
+#Bennenen Sie die Spalten durch die gegebene Liste.
 col_names = ['name', 'sex', 'first_appearance']
 
-
-#Macht die Spalte Index zu dem Index
-
-
-#dropt die entsprechende Spalte name
+#AF: Meinst du die Spalte name?
+#Machen Sie die Spalte Index zu dem Index. 
 
 
-#droppt die Zeilen mit Namor und Hank Pym
+#Löschen Sie die Spalte name.
 
 
-#zeigt die ersten 5 Zeilen des DataFrames an
+#Löschen Sie die Zeilen der von Namor und Hank Pym.
 
 
-
-#Zeig die erste und letzte Zeile 
+#Zeigen Sie die ersten 5 Zeilen des DataFrames an.
 
 
 
-#Füge eine Neue Spalte mit der Anzahl der Jahre seit der Veröffentlichung hinzu
+#Zeigen Sie die erste und letzte Zeile des DataFrames an. 
 
 
 
-# Ändert die Ersterscheinung von Vision auf 1964
-
-
-#Lasst euch alle weiblichen Superheldinnen ausgeben 
+#Fügen Sie eine neue Spalte mit der Anzahl der Jahre seit der Veröffentlichung hinzu.
 
 
 
-#Lasst euch den Durschnitt der Ersterscheinungen ausgeben 
+#Ändern Sie die Ersterscheinung von Vision auf das Jahr 1964.
 
 
+
+#Lassen Sie sich alle weiblichen Superheldinnen ausgeben.
+
+
+
+#Lassen Sie sich den Durschnitt der Ersterscheinungen ausgeben.
+
+#AF: Was meinst du damit großer?
 #Plottet die ersten experiences
 
 
-#Lasst euch ein Histogramm der Ersterscheinungen ausgeben
+#Lassen Sie sich ein Histogramm der Ersterscheinungen ausgeben.
 
 #Datensatz einlesen 
