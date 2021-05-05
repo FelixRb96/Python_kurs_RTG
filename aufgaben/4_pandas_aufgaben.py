@@ -62,7 +62,7 @@ col_names = ['name', 'sex', 'first_appearance']
 #Lassen Sie sich den Durschnitt der Ersterscheinungen ausgeben.
 
 
-#Plotten Sie die Werte der Ersterscheinungen
+#Plotten Sie die Werte der Ersterscheinungen.
 
 
 #Lassen Sie sich ein Histogramm der Ersterscheinungen ausgeben.
