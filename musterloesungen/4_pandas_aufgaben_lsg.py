@@ -79,4 +79,4 @@ marvel_df['first_appearance'].value_counts().plot.bar()
 plt.show()
 
 #Einlesen eines Datensatzes
-stocks = pd.read_csv("C:/Users/Till/Documents/GitHub/Python_kurs_RTG/Datensatz/aac_shelter_cat_outcome_eng.csv.zip")
+stocks = pd.read_csv("datensatz/aac_shelter_cat_outcome_eng.csv.zip")
