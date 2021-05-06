@@ -67,6 +67,6 @@ for i in range(1, 1000):
 # Plottet das Ergebnis
 plt.title("2 dimensionale symmetrische Irrfahrt") #Dem Plot einen Titel geben
 plt.plot(x, y)
-plt.savefig("2 dimensionale symmetrische Irrfahrt.png") # Speichern des Ergebnisses 
+plt.savefig("2 dimensionale symmetrische Irrfahrt.png") #Speichern des Ergebnisses 
 plt.show()
 
