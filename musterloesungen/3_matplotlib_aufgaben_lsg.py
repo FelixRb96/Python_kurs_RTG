@@ -21,7 +21,7 @@ plt.show()
 
 ## Aufgabe 2
 
-# a) (1 dimensionaler Random Walk) Ihre Aufgabe ist es 4 Irrfahrten in einem Plot darzustellen. Nutzen Sie hierfür die Wahrscheinlichkeiten (0.5, 0.4, 0.2, 0.8) für eine 
+# a) (1 dimensionaler Random Walk) Ihre Aufgabe ist es 4 Irrfahrten in einem Plot darzustellen. Nutzen Sie hierfür die Wahrscheinlichkeiten (0.5, 0.45, 0.55, 0.4) für eine 
 #    Realisierung der 1  und die entsprechende Gegenwahrscheinlichkeit für eine Realisierung der -1. Erzeugen Sie für den Plot 10000 Realisierungen. Fügen Sie dem Plot außerdem eine Legende zu, welche die Wahrscheinlichkeiten der einzelnen Irrfahrten beinhält.
 
 # Tipp: Ihr könnt einen Loop erstellen oder einen Numpy Ansatz wählen
@@ -65,8 +65,8 @@ for i in range(1, 1000):
       
   
 # Plottet das Ergebnis
-plt.title("2 dimensionale symmetrische Irrfahrt") #Dem Plot einen Titel geben
+plt.title("2 dimensionale symmetrische Irrfahrt") # Dem Plot einen Titel geben
 plt.plot(x, y)
-plt.savefig("2 dimensionale symmetrische Irrfahrt.png") #Speichern des Ergebnisses 
+plt.savefig("2 dimensionale symmetrische Irrfahrt.png") # Speichern des Ergebnisses 
 plt.show()
 
